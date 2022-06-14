@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋  Akash Rana. [Linkedin profile](https://www.linkedin.com/in/akash-rana-b485871aa/).
 
-<!--
-**Akash1298/Akash1298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1298&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+---------
+### 2021 - Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   Joined  [Acuments Studio](https://acuments.com/)  as a MERN-Stack Developer.
+-   Worked on JollyHQ, Goal-squash and Freebee.
+
+----------
+
+### 2020 - 2021
+
+-   Joined  [Igesia](https://igesia.co/)  as a ReactJs Developer.
+-   Worked on Igesia connect (LMS), Igesia Events.
+
+----------
