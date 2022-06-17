@@ -1,4 +1,4 @@
-### Hi there 👋  Akash Rana. [Linkedin profile](https://www.linkedin.com/in/akash-rana-b485871aa/).
+###  👋 Hi there, Akash Rana. [Linkedin profile](https://www.linkedin.com/in/akash-rana-b485871aa/).
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1298&show_icons=true&theme=radical)
 
