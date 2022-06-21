@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <div width="50%">![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1298&show_icons=true&theme=radical)</div>
+ ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1298&show_icons=true&theme=radical)
 <div width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash1298&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Akash1298" />
 </div>
 
