@@ -2,7 +2,7 @@
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1298&show_icons=true&theme=radical)
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Akash1298&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Akash's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar731&theme=tokyonight))
 
 
 ---------
