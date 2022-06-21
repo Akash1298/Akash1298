@@ -1,8 +1,7 @@
 ###  👋 Hi there, Akash Rana. [Linkedin profile](https://www.linkedin.com/in/akash-rana-b485871aa/).
 
-
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1298&show_icons=true&theme=radical)
 <div align="center">
- ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1298&show_icons=true&theme=radical)
 <div width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash1298&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Akash1298" />
 </div>
 
