@@ -1,16 +1,5 @@
 ###  👋 Hi there, Akash Rana. [Linkedin profile](https://www.linkedin.com/in/akash-rana-b485871aa/).
 
-
------------
-
-## ✨GitHub Stats: 
-
-<div align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash1298&show_icons=true&theme=radical" alt="Akash1298" />
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1298&theme=tokyonight" alt="Akash1298" />
-</div>
-
-
 ---------
 ### 2021 - Present
 
@@ -25,3 +14,10 @@
 -   Worked on Igesia connect (LMS), Igesia Events.
 
 ----------
+## ✨GitHub Stats: 
+
+<div align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash1298&show_icons=true&theme=radical" alt="Akash1298" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1298&theme=tokyonight" alt="Akash1298" />
+</div>
+-----------
