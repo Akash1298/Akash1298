@@ -18,6 +18,6 @@
 ## ✨GitHub Stats: 
 
 <div align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash1298&show_icons=true&theme=radical" alt="Akash1298" />
+ [comment]: <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash1298&show_icons=true&theme=radical" alt="Akash1298" />
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1298&theme=tokyonight" alt="Akash1298" />
 </div>
