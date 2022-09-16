@@ -21,3 +21,8 @@
  <!---<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash1298&show_icons=true&theme=radical" alt="Akash1298" /> --->
  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1298&theme=tokyonight" alt="Akash1298" />
 </div>
+
+<div align="center">
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash1298&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Akash1298" />
+ <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=Akash1298&theme=nord" alt="Akash1298" />
+</div>
