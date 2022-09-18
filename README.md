@@ -18,6 +18,6 @@
 ## ✨GitHub Stats: 
 
 <div>
- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1298&theme=tokyonight" alt="Akash1298" />
+ <img width="49%" height="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1298&theme=tokyonight" alt="Akash1298" />
  <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=Akash1298&theme=nord" alt="Akash1298" />
 </div>
