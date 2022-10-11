@@ -22,6 +22,6 @@
  <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=Akash1298&theme=nord" alt="Akash1298" />
 </div>
 
-<div>
+<!-- <div>
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar731&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ayushkumar731" />
-<div>
+<div> -->
