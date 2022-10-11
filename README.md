@@ -21,3 +21,7 @@
  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1298&theme=tokyonight" alt="Akash1298" />
  <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=Akash1298&theme=nord" alt="Akash1298" />
 </div>
+
+<div>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar731&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ayushkumar731" />
+<div>
