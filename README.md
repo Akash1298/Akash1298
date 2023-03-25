@@ -1,4 +1,10 @@
-###  👋 Hi there, Akash Rana. [Linkedin profile](https://www.linkedin.com/in/akash-rana-b485871aa/).
+### Hi, I'm Akash Rana  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/akash-rana-b485871aa" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Akash1298" height="40" width="40" /></a>
+</p>
+
 
 ---------
 ### 2021 - Present
