@@ -17,6 +17,13 @@
 
 ----------
 
+### 2016 - 2020
+
+-   B.tech (Computer Science).
+-   Dr. A.P.J. Abdul Kalam Technical University, Uttar Pradesh.
+
+----------
+
 ## ✨GitHub Stats: 
 
 <div>
