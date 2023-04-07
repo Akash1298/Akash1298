@@ -5,7 +5,7 @@
 ---------
 ### 2021 - Present
 
--   Joined  [Acuments Studio](https://acuments.com/)  as a MERN-Stack Developer.
+-   Joined  <a href="https://acuments.com/" target="_blank">Acuments Studio</a> as a MERN-Stack Developer.
 -   Worked on [JollyHQ](https://www.jollyhq.com/), [Goal-squash](https://goalslash.com/) and [Freebee](https://www.myfreebee.com.au/).
 
 ----------
