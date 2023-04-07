@@ -13,7 +13,7 @@
 ### 2020 - 2021
 
 -   Joined  [Igesia](https://igesia.co/)  as a ReactJs Developer.
--   Worked on [Igesia connect](https://console.igesia.co/), [Igesia Events](https://igesia.co/events).
+-   Worked on [Igesia connect](https://console.igesia.co/" target="_blank), [Igesia Events](https://igesia.co/events).
 
 ----------
 
