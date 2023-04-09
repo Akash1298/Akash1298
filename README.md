@@ -19,7 +19,7 @@
 
 ### 2016 - 2020
 
--   B.tech (Computer Science).
+-   Bachelor of Technology (Computer Science).
 -   Dr. A.P.J. Abdul Kalam Technical University, Uttar Pradesh.
 
 ----------
