@@ -37,5 +37,7 @@
 
 ## ✨GitHub Stats: 
 
-![](https://nirzak-streak-stats.vercel.app/?user=Akash1298&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1298&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Akash1298&theme=radical&hide_border=false" style="width: 49%; height: 200px; object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1298&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 49%; height: 200px; object-fit: cover;" />
+</div>
