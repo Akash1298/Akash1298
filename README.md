@@ -17,29 +17,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1298&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 49%; height: 200px; object-fit: cover;" />
 </div>
 
-
-## 💼 Experience:
-
-### 2023 - Present
-
--   Joined  <a href="https://www.kutumbhhrcare.com/" target="_blank">Kutumbh HRCare</a> as a Full-Stack Developer.
--   Working on [JobsYahan](https://www.jobsyahan.com/).
-
-
-### 2021 - 2023
-
--   Joined  <a href="https://acuments.com/" target="_blank">Acuments Studio</a> as a MERN-Stack Developer.
--   Worked on [JollyHQ](https://www.jollyhq.com/), [Goal-squash](https://goalslash.com/) and [Freebee](https://www.myfreebee.com.au/).
-
-
-### 2021
-
--   Joined  [Igesia](https://igesia.co/)  as a ReactJs Developer.
--   Worked on [Igesia connect](https://console.igesia.co/), [Igesia Events](https://igesia.co/events).
-
-
-### 2016 - 2020
-
--   Bachelor of Technology (Computer Science).
--   Dr. A.P.J. Abdul Kalam Technical University, Uttar Pradesh.
-
